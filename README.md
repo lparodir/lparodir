@@ -1,4 +1,4 @@
-![Header image](https://github.com/lparodir/lparodir/blob/main/Assets/GitHub_Header.png?raw=true)
+![Header image](https://github.com/lparodir/lparodir/blob/main/Assets/header.png?raw=true)
 
 ## About me
 I am a Software Engineer and Full-Stack Developer driven by a deep passion for continuous learning and knowledge sharing. I specialize in breaking down complex technical concepts, with a strong focus on mathematics, advanced algorithms, and software engineering best practices.
