@@ -1,2 +1,9 @@
 ![Header image](https://github.com/lparodir/lparodir/blob/main/Assets/GitHub_Header.png?raw=true)
-I'm a software engineer and full stack developer. Love learning and teaching about techonology, maths, algorithms and good programming practices. On my free time I usually grind some coffees beans and serve and nice espresso or playing dungeons and dragons.
+
+## About me
+I am a Software Engineer and Full-Stack Developer driven by a deep passion for continuous learning and knowledge sharing. I specialize in breaking down complex technical concepts, with a strong focus on mathematics, advanced algorithms, and software engineering best practices.
+
+## Beyond the code
+When I am not optimizing code or designing architectures, you can find me:
+- Crafting the perfect cup: Grinding single-origin beans to pull the perfect espresso shot.
+- Adventuring in networks: Mastering strategy and storytelling as a Dungeons & Dragons player.
